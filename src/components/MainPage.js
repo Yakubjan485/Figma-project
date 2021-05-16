@@ -500,7 +500,8 @@ tumanidagi 2-sonli...</a>
                                </div>
                          <div className="line"></div>
                          </div>
-                    </div>
+                   
+                   </div>
                </footer>
                {/* stop footer */}
                
